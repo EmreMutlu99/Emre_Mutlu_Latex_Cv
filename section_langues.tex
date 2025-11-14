@@ -1,0 +1,38 @@
+% YAAC Another Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/darwiin/yaac-another-awesome-cv
+%
+% Author:
+% Christophe Roger
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+%Section: Languages & Technical Stack
+\newcommand{\skillbubbles}[1]{%
+  \mbox{\strut\foreach \x in {1,...,5}{\color{accentcolor!80} \ifnumgreater{\x}{#1}{\faCircleThin}{\faCircle}}\hspace{0.2em}}%
+}
+\newcommand{\duoskill}[4]{%
+  \textbf{#1} & \skillbubbles{#2} & \textbf{#3} & \skillbubbles{#4}\\[0.35em]
+}
+\newcommand{\singleSkill}[2]{%
+  \textbf{#1} & \skillbubbles{#2} & & \\[0.35em]
+}
+
+\sectionTitle{Languages}{\faGlobe}
+\vspace{0.5\baselineskip}
+\noindent\begin{tabular}{@{}>{\raggedright\arraybackslash}m{0.34\linewidth}>{\raggedright\arraybackslash}m{0.11\linewidth}>{\raggedright\arraybackslash}m{0.34\linewidth}>{\raggedright\arraybackslash}m{0.11\linewidth}@{}}
+  \duoskill{Turkish (native)}{5}{German (C1)}{5}
+  \singleSkill{English (C1)}{5}
+\end{tabular}
+
+\sectionTitle{Technical Stack}{\faLaptop}
+\vspace{0.5\baselineskip}
+\noindent\begin{tabular}{@{}>{\raggedright\arraybackslash}m{0.34\linewidth}>{\raggedright\arraybackslash}m{0.11\linewidth}>{\raggedright\arraybackslash}m{0.34\linewidth}>{\raggedright\arraybackslash}m{0.11\linewidth}@{}}
+  \duoskill{Angular / React}{5}{Node.js / Python}{5}
+  \duoskill{AI/ML (TensorFlow, PyTorch, RAG)}{5}{Docker / AWS / VPS}{4}
+  \duoskill{Asterisk / VoIP}{4}{C/C++}{4}
+  \duoskill{ESP32 / STM32 Firmware}{4}{KiCAD / Altium}{4}
+  \duoskill{PostgreSQL / MySQL}{4}{GitHub / Gitea / CI-CD}{4}
+\end{tabular}

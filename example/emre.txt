@@ -1,0 +1,264 @@
+Emre Mutlu
+ID: 51250202478
+
+Work permit: German
+
+Place of birth: Istanbul, Türkiye
+(+49) 17631334814 (Work)
+
+Date of birth: 08/07/1999
+
+Nationality: Turkish
+
+Phone number:
+
+Email address: emre.mutlu@sagel-ai.com
+
+Address: Hubertusstraße 1-5, 52477, Alsdorf, Germany (Home)
+
+WORK EXPERIENCE
+ SAGEL AI – AACHEN, GERMANY
+
+LEAD SOFTWARE ENGINEER / SOFTWARE ARCHITECT – 01/02/2024 – CURRENT
+• Full responsibility for the Full Stack Development (Angular/NodeJs/Postgre SQL) and Architectural Design of Sagel
+AI Software.
+• Entire Development Flow of text based AI Agents (Whatsapp, Email, Telegram, Website)
+• Entire Development of audio/telephony based AI Agents and the development of the relevant hardware
+infrasturcture with Asterisk Servers (Voip, SIP Trunking, ARI (Asterisk Rest Interface), Websocket)
+• Server Side Design / Deployment of Software (Server / Client / Microservice)
+• Continuous Integration / Continuous Delivery (CI/CD Pipline)
+• B2B Sales and Customer Managemet
+• Team and Project Management
+Front-End: React.js, Angular CLI
+Back-End: Node.js, Python
+Databases: Postgre SQL, MySQL
+AI & Machine Learning: TensorFlow, PyTorch, Scikit-Learn, Computer Vision, Retrieval-Augmented Generation (RAG),
+Vector Databases, OpenAI API, GDPR Conformity with Azure OpenAI Client, OLLAMA, LLama3
+Cloud & DevOps: Docker, Amazon Web Services (AWS), Ngrok, GitHub, Gitea, Docker Compose, NetCup, Portainer, VPS
+Telephony & Communication Systems: Asterisk (PBX),VoIP, SIP Trunking, ARI, AudioSocket, Interactive Voice
+Response(IVR), WebSocket, HTTP/HTTPS
+Object Storage: MinIO (S3-compatible), AWS S3 API
+Administrative: Linux, Debian Server, pgAdmin, Gitea, EsproCRM, Kimai
+Project Management & Business: Agile Project Management, Business-to-Business (B2B)
+IDE: Visual Studio Code
+Other Programming Languages: JavaScript, TypeScript, Bash(Shell)
+Industry Norms: ISO 42010
+ SCHARCO ELEKTRONIK GMBH. – WUPPERTAL, GERMANY
+
+EMBEDDED SYSTEMS ENGINEER – 01/10/2022 – 01/02/2024
+I worked in the intersection of Embedded Software and Cloud Software Deveopment. I wrote the integrations of
+Embedded Devices with the Company's Cloud Platform. I have integrated new modules to existing embedded systems
+and also made these new features visible to customers via the web based front end interface.
+• Embedded Software Development in C/C++ in ESP IDF.
+• Embedded Platforms ESP32 and STM32
+• Communication Protocols (ModBus, CAN Bus, USB, Serial, I2C, Ethernet)
+• Angular for Front End Development.
+Programming Languages & Frameworks: C/C++, Python, Angular, CMake, Bash(Shell)
+Hardware Design & Simulation: Altium, LTSpice
+Communication Protocols: ModBus, CAN Bus, USB, Serial, I2C, Ethernet, HTTP
+DevOps: Github
+Other Skills: Systems Networking, Agile Development
+IDE: Visual Studio Code + ESP IDF
+
+ SPACE TEAM AACHEN E.V. – AACHEN, GERMANY
+Business or Sector Professional, scientific and technical activities
+
+EMBEDDED HARDWARE ENGINEER – 01/01/2022 – 01/02/2024
+I have worked as a Hardware Engineer and designed the circuitry of the following systems of the STAHR rocket:
+• Parachute Release
+• Fuse Detection
+• Redundant Power Electronics
+Hardware Design & Simulation: KiCAD, LTSpice
+Circuit Desing Components: STM32F4, CAN Bus hardware, Buck Converters, LDO, SD, Gyro, Baro, Auto Voltage Select,
+Reverse Voltage Protection
+ FRAUNHOFER IPT
+
+HARDWARE/SOFTWARE DEVELOPER – 01/03/2020 – 01/10/2022
+I have worked as a Hardware Developer in the following fields:
+• Designed various Embedded Devices for use in Production Lines.
+• Designed Enclosures in Solidworks / Autocad Fusion 360
+• Data Analysis with Python
+• Embedded Programming in C/C++ around SMT32 and ESP32 platforms
+Programming Languages & Frameworks: Python, C/C++, PlatformIO, Jupyter Notebook
+Hardware Design & Simulation: KiCAD, LTSpice, 2–4 Layer PCBs
+Circuit Components: Analog/Digital Circuits, Power (Buck/Boost/LDO/BMS), CAN, OpAmps | IoT (HTTP/MQTT) | ESP32,
+STM32F4
+CAD Software: Autodesk Fusion 360, SolidWorks
+PLC Control: Beckhoff EtherCAT
+
+EDUCATION AND TRAINING
+10/10/2024 – CURRENT
+
+M.SC COMPUTER ENGINEERING RWTH Aachen University
+Website https://www.rwth-aachen.de/go/id/a/?lidx=1
+
+Level in EQF EQF level 7
+
+Aachen, Germany
+
+B.SC ELECTRICAL ENGINEERING INFORMATION TECHNOLOGIES AND COMPUTER ENGINEERING RWTH
+Aachen University
+Website https://www.rwth-aachen.de/go/id/a/?lidx=1
+
+Level in EQF EQF level 6
+
+LANGUAGE SKILLS
+Mother tongue(s):
+
+TURKISH
+
+Other language(s):
+UNDERSTANDING
+
+SPEAKING
+
+WRITING
+
+Listening
+
+Reading
+
+Spoken production Spoken interaction
+
+GERMAN
+
+C1
+
+C1
+
+C1
+
+C1
+
+C1
+
+ENGLISH
+
+C1
+
+C1
+
+C1
+
+C1
+
+C1
+
+Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
+
+DRIVING LICENCE
+Driving Licence: AM
+Driving Licence: B1
+Driving Licence: B
+
+PROJECTS
+01/09/2025 – 01/10/2025
+
+Ollama-Agent-Kit
+
+Ollama Agent Kit is an open-source Node.js toolkit for building memory-enabled AI agents powered by Ollama. It
+supports conversation threads, lightweight JSONL memory, and tool calls (e.g., weather, time, reservations), making it
+easy to integrate LLM agents into your own projects.Write here the description...
+Link https://github.com/EmreMutlu99/Ollama-Agent-Kit
+
+System-Logger-Microservice
+In a production environment, event logs must be recorded. Some companies do this by saving events to text files,
+while others have their own logging systems in place. This project is a plugin-based solution that stores event logs in a
+database and provides a front-end interface.Write here the description...
+Link https://github.com/EmreMutlu99/System-Logger-Microservice
+01/06/2025 – 10/06/2025
+
+Digital-Image-Fault-Detection-Demo
+Surface Defect Detection Demo — Textile Production
+This repository contains a supervised deep-learning demo for pixel-level defect segmentation in industrial textile
+images.
+A U-Net model, trained on manually labeled data, predicts surface anomalies. The demo includes a Flask web app
+where you can upload an image and instantly view the predicted defect mask side-by-side with the original.
+Link https://github.com/EmreMutlu99/Digital-Image-Fault-Detection
+01/04/2025 – 01/05/2025
+
+IOT-Smart-Button-ESP8266
+This project was intended to be a low-power, Wi-Fi-connected open-source IoT button, designed primarily for use in
+environments like restaurants, shops, or offices as a simple "Call Me" or "Request Assistance" button.
+Link https://github.com/EmreMutlu99/IOT-Smart-Button-ESP8266
+01/01/2022 – CURRENT
+
+GrabCad Open Source
+Mechanical design enthusiast with a passion for combining precision engineering and creative problem-solving. My
+portfolio includes a range of practical and well-crafted CAD models — from antique door handles to calibration tools
+for 3D printers — designed with both functionality and aesthetics in mind.
+Link https://grabcad.com/emre.mutlu-19
+
+PUBLICATIONS
+2023
+
+Development and evaluation of an input stage for signal adaptation to perform current and voltage
+measurements
+Institute for Automation of Complex Power Systems | Thesis: Input Stage Dev. for Current/Voltage Measurement | DIN
+EN 60664-1, DIN EN 61010-1 | Isolation, Safety, Low Voltage Grid
+Authors: Ömer Emre Mutlu | Journal Name: RWTH Aachen University | Volume, Issue and Pages: 86
+2024
+
+A Modular Cloud Application Architecture:Self-Hosting with Containerized Microservices Usinga
+CentralNode and Edge Services
+This paper presents an approach to self-hosting cloud applications for small to medium-sized enterprises (SMEs),
+addressing the problems associated with reliance on external cloud providers and the complexities associated with
+traditional self-hosting methods.
+
+Authors: Ömer Emre Mutlu | Publisher: EMC Ltd.
+2025
+
+An Organizational Framework for Distributed Software Development with Remote Workers
+This paper presents a secure, scalable framework for managing remote software development using VPS and
+containerization. It ensures reliability, clear workflows, and efficient collaboration across distributed teams.
+Authors: Ömer Emre Mutlu | Publisher: EMC Ltd.
+
+RECOMMENDATIONS
+Armin Tavakolian Founder @ TavaTech Gmbh.
+• We have previously worked together with Ömer Emre Mutlu at the Fraunhofer Institute between 2020 - 2022. I
+was his supervisor, I can vouch for his working ethics and skills.
+• He has provided me with consulting services in 2025 and helped us set up a CI/CD pipline for my company,
+Tavatech Gmbh.
+Phone (+49) 15731780022
+
+Michael Weitauer Head of Engineering and Product Management at Scharco Elektronik Gmbh.
+• I had the pleasure of working with Ömer Emre Mutlu at Scharco Elektronik GmbH, where he proved to be a
+skilled and dedicated engineer. His technical expertise, problem-solving ability, and proactive attitude made him
+a valuable asset to our team.
+Phone (+49) 1791240545
+
+Dr.Hürriyet Yilmaz Founder at Lermonos Vineyards
+I had the pleasure of working with Emre Mutlu, who integrated all of our communication channels—such as contact
+forms, WhatsApp, and email—into the Sagel AI Booking System with AI Agents. Thanks to his expertise, everything
+works seamlessly, and we are very happy with the results. I highly recommend Emre for his professionalism, technical
+skills, and commitment to delivering excellent solutions.
+Email hurriyet.yilmaz@lermonos.com
+
+SKILLS
+JavaScript
+SQL Pytorch
+Deeplearning
+Tensorflow
+computer vision
+cloud technologies
+AWS sckitlearn Python (computer programming)
+Jupyter-notebook,
+TypeScript
+Angular
+React PostgreSQL
+Javascript(Nodejs, ExpressJs)
+software architecture models
+Docker, Docker Compose, Docker Swarm
+HTTP,
+JWT Auth
+GIT version control, Linux Command
+Linux Servers
+RetrievalWebsocket and REST knowledge
+Augmented Generation
+Vector Databases
+VoIP & PBX (Asterisk management, VoIP protocols, ...)
+JAVASCRIPT /
+TYPESCRIPT
+Virtual Private server (VPS)
+
+
