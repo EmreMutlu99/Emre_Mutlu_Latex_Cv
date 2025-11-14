@@ -1,0 +1,4 @@
+PWD /home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/en
+INPUT /home/emre/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/en/cv.tex
+OUTPUT cv.log
