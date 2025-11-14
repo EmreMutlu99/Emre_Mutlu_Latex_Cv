@@ -1,6 +1,6 @@
 PWD /home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv
 INPUT /home/emre/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
-INPUT /home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/cv.tex
+INPUT cv.tex
 OUTPUT cv.log
 INPUT ./yaac-another-awesome-cv.cls
 INPUT yaac-another-awesome-cv.cls
@@ -399,8 +399,8 @@ INPUT ./section_langues.tex
 INPUT ./section_langues.tex
 INPUT section_langues.tex
 INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/public/fontawesome5/fa5free1solid.tfm
-INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/public/fontawesome5/fa5free0regular.tfm
+INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/public/fontawesome5/fa5free2solid.tfm
 INPUT ./section_scolarite.tex
 INPUT ./section_scolarite.tex
 INPUT ./section_scolarite.tex
@@ -419,15 +419,15 @@ INPUT section_publications.tex
 INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
 INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-ts1.tfm
 INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.tfm
+INPUT /home/emre/.miktex/texmfs/install/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-ts1.vf
+INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-ts1--base.tfm
+INPUT /home/emre/.miktex/texmfs/install/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
+INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT ./section_references.tex
 INPUT ./section_references.tex
 INPUT ./section_references.tex
 INPUT ./section_references.tex
 INPUT section_references.tex
-INPUT /home/emre/.miktex/texmfs/install/fonts/vf/adobe/sourcesanspro/SourceSansPro-Bold-tlf-ts1.vf
-INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-Bold-tlf-ts1--base.tfm
-INPUT /home/emre/.miktex/texmfs/install/fonts/vf/adobe/sourcesanspro/SourceSansPro-It-tlf-t1.vf
-INPUT /home/emre/.miktex/texmfs/install/fonts/tfm/adobe/sourcesanspro/SourceSansPro-It-tlf-t1--base.tfm
 INPUT cv.aux
 INPUT ./cv.out
 INPUT ./cv.out
