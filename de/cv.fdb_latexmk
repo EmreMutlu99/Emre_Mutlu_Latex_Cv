@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763134061.21729 "/home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/de/cv.tex" "cv.pdf" "cv" 1763134065.54243 0
+["pdflatex"] 1763134172.19492 "/home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/de/cv.tex" "cv.pdf" "cv" 1763134176.4168 0
   "/home/emre/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map" 1763122189.33541 165414 9363bc2e63231c61f423f58d61c51474 ""
   "/home/emre/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1729284287.2872 8730806 905eab6fbd59480d546809aa440017f8 ""
   "/home/emre/.miktex/texmfs/install/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1729282953.18307 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -200,11 +200,11 @@
   "/home/emre/.miktex/texmfs/install/tex/latex/url/url.sty" 1728037164.5838 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/home/emre/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1728037189.63845 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/home/emre/.miktex/texmfs/install/tex/latex/xkeyval/xkeyval.sty" 1728405715.02303 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "/home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/de/cv.tex" 1763133487.03783 1149 7caf89a7c60995d1f4a5216b140c1c48 ""
+  "/home/emre/Documents/GitHub/Emre_Mutlu_Latex_Cv/de/cv.tex" 1763134170.52376 1220 a3024364b859f0d9ed691c6ababfacec ""
   "EmreMutlu-photo.jpg" 1763133322.86635 136177 a37798fd5efe1a09e3a2ca3638fb9ade ""
-  "cv.aux" 1763134064.92108 1934 d6b379678b3149f118480de271408c10 "pdflatex"
-  "cv.out" 1763134064.92508 890 371ceebae749b4b9f16b75dc6c90cc17 "pdflatex"
-  "cv.tex" 1763133487.03783 1149 7caf89a7c60995d1f4a5216b140c1c48 ""
+  "cv.aux" 1763134175.76579 1934 d6b379678b3149f118480de271408c10 "pdflatex"
+  "cv.out" 1763134175.76979 890 371ceebae749b4b9f16b75dc6c90cc17 "pdflatex"
+  "cv.tex" 1763134170.52376 1220 a3024364b859f0d9ed691c6ababfacec ""
   "scalefnt.sty" 1763133322.86735 1360 df2086bf924b14b72d6121fe9502fcdb ""
   "section_competences.tex" 1763133560.73045 1925 f9b38959a892ea5836fcbd6b47e21996 ""
   "section_experience_short.tex" 1763133673.46333 2833 fd45e8e7bf6b654bcb9cbebdcb263bbf ""
